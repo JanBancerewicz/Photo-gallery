@@ -14,6 +14,7 @@ Explore and share photos in a smart way.
 - **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
 - **Upload Photos:** Users can upload their own photos to share with others.
 - **Authentication:** Secure user authentication to protect user accounts and uploaded content.
+- **Watermarks:** Users can apply watermarks to their photos.
 - **Customization:** Easily customize the website's appearance and settings.
 
 Photo upload preview:
