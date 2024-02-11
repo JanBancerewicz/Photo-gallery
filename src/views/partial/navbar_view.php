@@ -1,5 +1,5 @@
 <div id="navbar">
-    <h1 class='logo'>Galeria smakowitych zdjęć</h1>
+    <h1 class='logo'>Galeria zdjęć</h1>
     <hr/>
     <div class="containter" >
 
