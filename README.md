@@ -3,6 +3,11 @@
 A simple and customizable photo gallery website built using PHP.
 Explore and share photos in a smart way.
 
+## Preview
+
+![ssgal](https://github.com/JanBancerewicz/Photo-gallery/assets/79080628/66c772df-ec5c-48de-91be-3b2993cbeed2)
+
+
 ## Features
 
 - **User-friendly Interface:** Intuitive and easy-to-use interface for users to browse and view photos.
@@ -10,6 +15,12 @@ Explore and share photos in a smart way.
 - **Upload Photos:** Users can upload their own photos to share with others.
 - **Authentication:** Secure user authentication to protect user accounts and uploaded content.
 - **Customization:** Easily customize the website's appearance and settings.
+
+Photo upload preview:
+
+![ssgal2jpg](https://github.com/JanBancerewicz/Photo-gallery/assets/79080628/6d0e16ff-c446-463f-8088-b3f8b4c35d72)
+
+
 
 ## Requirements
 
@@ -44,4 +55,4 @@ Explore and share photos in a smart way.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](LICENSE).
